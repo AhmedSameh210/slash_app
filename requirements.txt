@@ -2,3 +2,4 @@ torch
 streamlit
 torchvision==0.10.0
 Pillow==8.4.0
+transformers==4.12.2
